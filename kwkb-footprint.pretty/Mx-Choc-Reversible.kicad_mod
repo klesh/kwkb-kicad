@@ -14,7 +14,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6d67d5f2-ad73-439d-98ec-9c1f47a0f13f)
   )
-  (fp_rect (start -9 -9) (end 9 9) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2f2f0d19-0550-40c9-be7c-43ae5877dda4))
+  (fp_rect (start -9.5 -9.5) (end 9.5 9.5) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2f2f0d19-0550-40c9-be7c-43ae5877dda4))
   (fp_rect (start -7 -7) (end 7 7) (layer "B.Fab") (width 0.1) (fill none) (tstamp 2a0478a3-b1a3-499c-9dfa-bbdb7b5d2a8e))
   (fp_rect (start -7 -7) (end 7 7) (layer "F.Fab") (width 0.1) (fill none) (tstamp 86c89e3c-bd3d-403c-9cbb-82c6ea1f13f1))
   (fp_rect (start -7 -7) (end 7 7) (layer "User.1") (width 0.1) (fill none) (tstamp ea4f515d-ba77-40d1-9cb3-b31d290f2ab2))
