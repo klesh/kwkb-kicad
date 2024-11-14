@@ -1474,7 +1474,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -17.78 21.59 0)
 				(length 2.54)
 				(name "3V3"
@@ -1684,7 +1684,7 @@
 			(pin passive line
 				(at 0 -13.97 0)
 				(length 2.54)
-				(name "DAT"
+				(name "CLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1702,7 +1702,7 @@
 			(pin passive line
 				(at 0 -10.16 0)
 				(length 2.54)
-				(name "CLK"
+				(name "DAT"
 					(effects
 						(font
 							(size 1.27 1.27)
